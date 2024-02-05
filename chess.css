@@ -1,0 +1,11 @@
+table,tr,td{
+    border: 1px solid brown;
+    border-collapse: collapse;
+}
+table{
+    width: 150px;
+    height: 250px;
+}
+.odd{
+    background-color: black;
+}
